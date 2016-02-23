@@ -2,7 +2,7 @@
 layout: post
 title:  "Erster Kontakt mit der Telekom"
 date:   2016-02-24 00:05:00 +0100
-categories: interessenten, telekom, glasfaser
+tags: interessenten, telekom, glasfaser
 ---
 Wir haben Kontakt zu einem mit dem Glasfaser-Projekt vertrautem Mitarbeiter der
 Deutschen Telekom. Er ist bereit eine Voruntersuchung zus starten, wenn wir
