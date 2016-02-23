@@ -207,8 +207,9 @@ unter:
 
 [info@glasfaser-im-hanseviertel.de](mailto:info@glasfaser-im-hanseviertel.de)
 
-Darüber können bei Bedarf auf gerne mal ein Treffen organisieren, um weitere
-Fragen persönlich zu klären. Wir freuen uns auf jeden Fall über jede Mail
+Über diesen Weg können wir bei Bedarf auf gerne mal ein Treffen organisieren, um
+ggf. weitere Fragen persönlich zu klären. Wir freuen uns auf jeden Fall über
+eine Kontaktaufnahme.
 
 ## Wie sieht die weiter Planung aus?
 
