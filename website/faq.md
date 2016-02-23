@@ -220,8 +220,8 @@ Komponenten installiert werden müssten und vor allem, welche Gesamtkosten auf
 uns zu kommen.
 
 Sollte die Kosten den Schätzungen entsprechenden, werden wir in einer weiteren
-Planungsphase überlegen, ob es möglich ist, die weiteren Interessenten ebenfalls
-zu dem gewünschten Betrag an das Netz anzuschließen. Ziel sollte sein, möglichst
+Planungsphase überlegen, ob es möglich ist die weiteren Interessenten ebenfalls
+zu dem gewünschten Betrag an das Netz anzuschließen. Ziel sollte sein möglichst
 viele Haushalte anzuschließen. Eine nachträgliche Erschließung eines Hauses
 dürfte nur mit einem erheblichen finanziellen Aufwand möglich sein.
 
