@@ -217,7 +217,7 @@ Betrag von mind. € 3000,- haben, würde ich meinen Kontakt bei der Telekom
 bitten, eine erste Voruntersuchung einzuleiten. Die Telekom wird dann die
 Umgebung erkunden und klären, wie die Kabelführung auszusehen hat, welche
 Komponenten installiert werden müssten und vor allem, welche Gesamtkosten auf
-uns zu kommen hat.
+uns zu kommen.
 
 Sollte die Kosten den Schätzungen entsprechenden, werden wir in einer weiteren
 Planungsphase überlegen, ob es möglich ist, die weiteren Interessenten ebenfalls
