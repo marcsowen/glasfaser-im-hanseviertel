@@ -11,7 +11,7 @@ des Hanseviertels in Lüneburg, die sich zum Ziel gesetzt hat, möglichst vielen
 Häusern im Hanseviertel den Zugang zum Internet per Glasfaser (FTTH) zu
 ermöglichen.
 
-Für weitere Informationen schau doch einfach mal in unsere [FAQ](/faq/).
+Weitere Informationen stehen in unserer [FAQ](/faq/).
 
 Bei Interesse schreibt uns einfach eine Email:
 
