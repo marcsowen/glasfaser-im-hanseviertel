@@ -4,8 +4,8 @@ title:  "Möglicher Glasfaserverlauf"
 date:   2016-02-24 00:30:00 +0100
 tags: glasfaser
 ---
-Um einen ersten Eindruck zu gewähren, habe ich den potentiellen Verlauf der
-Glasfaserstrecke hier skizziert:
+Um einen ersten Eindruck zu gewähren, haben wir den potentiellen Verlauf der
+ersten Glasfaserstrecke skizziert:
 
 ![Mögliche Glasfaserstrecke](/images/20160224_Glasfaserstrecke_Idee.png)
 

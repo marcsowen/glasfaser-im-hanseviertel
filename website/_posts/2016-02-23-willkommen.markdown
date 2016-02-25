@@ -6,3 +6,5 @@ tags: willkommen
 ---
 Herzlich Willkommen auf der neuen Webseite von Glasfaser
 im Hanseviertel Lüneburg!
+
+![Versorgungsleitungen](/images/versorgungsleitungen.jpg)

@@ -14,9 +14,9 @@ Kontakt:
 
 Telefon:	04131 / 72 113 72  
 Telefax:	04131 / 72 113 73  
-E-Mail:	info@glasfaser-im-hanseviertel.de
+E-Mail:	[info@glasfaser-im-hanseviertel.de](mailto:info@glasfaser-im-hanseviertel.de)
 
-Quelle: http://www.e-recht24.de
+Quelle: [http://www.e-recht24.de](http://www.e-recht24.de){:target="_blank"}
 
 ## Haftungsausschluss (Disclaimer)
 
