@@ -18,16 +18,16 @@ eine ganze Reihe an Vorteilen. Die zu übertragenen Signale erfahren eine
 deutlich geringere Dämpfung und sind nahezu immun gegenüber Störsignalen von
 benachbarten Kabeln. Das ermöglicht eine wesentlich höhere und robustere
 Datenübertragungsrate. Schon heute werden bei Glasfaser Geschwindigkeiten von
-mehreren 100 Mbit/s angebunden. Technisch sind mit der aktuellen Technik auch
+mehreren 100 Mbit/s angeboten. Technisch sind mit der aktuellen Technik auch
 Datenraten von mehreren Gbit/s möglich. Ein weiterer Vorteil: Diese
 Geschwindigkeiten gelten nicht nur für Daten, die man aus dem Internet lädt,
-sondern auch für Daten (Musik, Fotos für Fotobücher, etc.), die man ins Internet
-hochlädt.
+sondern auch für Daten (Fotos für Fotobücher, Podcasts, Youtube-Videos, Backups,
+etc.), die man ins Internet hochlädt.
 
 Vorteile auf einem Blick:
 
 * Hohe Downloadraten
-* Ebenfalls hohe Uploadraten
+* Ebenso hohe Uploadraten
 * Geringe Latenz (<5 ms)
 * Sehr geringe Störanfälligkeit
 * Maximale Zukunftssicherheit
@@ -40,10 +40,10 @@ FTTH steht für *Fibre To The Home* also Glasfaser bis ins eigene Haus.
 
 Ja, das wollen wir auch überhaupt nicht abstreiten. Allerdings sollte man sich
 im Klaren darüber sein, welche Fortschritte die Technik in den letzten 10 Jahren
-gemacht hat. Damals waren Internetzugänge mit einer Download 16 Mbit/s
+gemacht hat. Damals waren Internetzugänge mit einer Downloadrate von 16 Mbit/s
 unheimlich schnell. Heutzutage tendieren viele schon zu mindestens 50 Mbit/s.
 Dabei spielt der Upload - also Daten ins Internet - eine immer größere Rolle.
-Die "Cloud" ist in aller Munde und Fotos, Musik oder aber auch Backups möchte
+Die "Cloud" ist in aller Munde und Fotos, Videos oder aber auch Backups möchte
 man möglichst schnell und sicher ins Internet laden.
 
 Viele von uns haben sich gerade ihre erste Immobilie gekauft. Sicherlich möchte
@@ -68,9 +68,9 @@ Problem, dass es vor allem außerhalb der Hansestadt viele Orte gibt, die
 Internet wenn überhaupt nur mit einer sehr geringen Datenrate (z.B. 0,384
 Mbit/s) erhalten können. Hier haben es die Telekommunikationsanbieter in der
 Vergangenheit versäumt, ihre Netze an die Anforderungen der heutigen Zeit
-anzupassen. Diese Menschen können an den vielen Vorzügen des Internets
-(Onlineshopping, Musik- bzw. Videostreaming, Fotobücher bestellen) nicht
-teilnehmen.
+anzupassen. Die Nutzer eines solchen Internetzugangs können an den vielen
+Vorzügen des Internets (Onlineshopping, Musik- bzw. Videostreaming, Fotobücher
+bestellen) nicht teilnehmen.
 
 Damit Deutschland hier nicht ins Hintertreffen gelangt, hat die Bundesregierung
 beschlossen, bis 2018 allen Bürgern einen Internetzugang von mind. 50 Mbit/s zur
@@ -103,22 +103,22 @@ Wettbewerb zwischen den Telekommunikationsanbietern gibt.
 ### Ja, prima. Also sorgen die Telekommunikationsanbieter für Glasfaser!
 
 Nein, leider nicht. Gerade im Neubaugebiet Hanseviertel hat sich gezeigt, dass
-die Telekommunikationsanbieter kein Interesse an einem Glasfaserausbau haben. Es
-wird zwar an vielen Stellen beteuert, dass Neubaugebiete heutzutage immer nur
-per Glasfaser erschlossen werden, aber die Rechnungen von ca. € 400,- (Telekom)
-bzw. ca. € 700,- (Vodafone Kabel) für den Zugang zum Kupferkabelnetz sind vielen
-sicherlich noch gut im Gedächtnis. Die Wahrscheinlichkeit, dass die Anbieter
-demnächst alles wieder heraus reißen und stattdessen Glasfaser legen, ist
-demnach äußerst gering.
+die Telekommunikationsanbieter kein Interesse an einem eigenfinanzierten
+Glasfaserausbau haben. Es wird zwar an vielen Stellen beteuert, dass
+Neubaugebiete heutzutage immer nur per Glasfaser erschlossen werden, aber die
+Rechnungen von ca. € 400,- (Telekom) bzw. ca. € 700,- (Vodafone Kabel) für den
+Zugang zum Kupferkabelnetz sind vielen sicherlich noch gut im Gedächtnis. Die
+Wahrscheinlichkeit, dass die Anbieter demnächst alles wieder heraus reißen und
+stattdessen Glasfaser legen, ist demnach äußerst gering.
 
 ### Wer baut nun das Glasfasernetz?
 
 Um es vorweg zu nehmen: Wir nicht. Wir haben weder die Zeit noch die nötigen
-Mittel um die erheblichen Kosten eines Ausbaus zu übernehmen. Aber es gibt
-mindestens eine Alternative. Angefangen hat es mit einem Artikel des
-Nachrichtenportals Golem.de:
+Mittel um die erheblichen Kosten eines selbst geplanten Ausbaus zu übernehmen.
+Aber es gibt mindestens eine Alternative. Angefangen hat es mit einem Artikel
+des Nachrichtenportals Golem.de:
 
-[FTTH - Telekom will Glasfaserausbau auf Kosten des Kunden anbieten](http://www.golem.de/news/ftth-telekom-will-glasfaserausbau-auf-kosten-des-kunden-anbieten-1602-119274.html){:target="_blank"}
+[Golem.de: FTTH - Telekom will Glasfaserausbau auf Kosten des Kunden anbieten](http://www.golem.de/news/ftth-telekom-will-glasfaserausbau-auf-kosten-des-kunden-anbieten-1602-119274.html){:target="_blank"}
 
 Dort wird der Telekom-Chef Niek Jan van Damme zitiert: "Wir testen jedoch gerade
 die Möglichkeit, jedem Kunden einen Glasfaseranschluss auf Wunsch zu liefern".
@@ -137,7 +137,7 @@ installiert werden kann. Dabei orientiert sich die Telekom an den Maßnahmen,
 die sie auch schon in den Glasfaser-Pilotstädten durchgeführt hat. Über diese
 kann man sich auf der Telekom-Webseite informieren:
 
-[Willkommen im Netz der Zukunft](http://www.telekom.de/privatkunden/zuhause/glasfaser){:target="_blank"}
+[Telekom.de: Willkommen im Netz der Zukunft](http://www.telekom.de/privatkunden/zuhause/glasfaser){:target="_blank"}
 
 ### Ich dachte die Telekom möchte gar nicht ausbauen?
 
@@ -157,7 +157,7 @@ ohne größere Schäden realisierbar ist. Aber keine Sorge: Sollte der Vorgarten
 schon fertig sein, gibt es zahlreiche Methoden ein Kabel ohne Ausheben eines
 Grabens zu verlegen. Ein Beispiel kann man sich bei Youtube ansehen:
 
-[Grabenlose FTTH-Installation mittels Erdrakete](https://youtu.be/YINa0VePMi0)
+[Youtube.de: Grabenlose FTTH-Installation mittels Erdrakete](https://youtu.be/YINa0VePMi0)
 
 ### Was kostet also das ganze?
 
@@ -177,16 +177,16 @@ unmittelbarer Nachbarschaft befinden.
 Interessenten, die weiter weg im Hanseviertel wohnen, würden wir natürlich
 trotzdem mit in die Planung einbeziehen. Evtl. müsste dann ein weiteres Projekt
 beauftragt und ggf. so lange gewartet werden, bis genügend Interessenten im
-zweiten Cluster zur Verfügung stehen.
+zweiten Abschnitt zur Verfügung stehen.
 
 ### Mit welchen Kosten muss ich nach der Erschließung rechnen?
 
 Der Vorteil ist: Man bezahlt genau die gleichen monatlichen Gebühren, wie bei
 einem Standard-DSL-Vertrag. Der Tarif MagentaZuhause M kostet derzeit in den
-ersten 12 Monaten € 34,95/Monat - danach € 39,95/Monat. Höhere Glasfaser-
-Geschwindigkeiten sind geringfügig teurer. Der Aufpreis von 50 Mbit/s auf
-100 Mbit/s beträgt derzeit € 5,-/Monat. Der Aufpreis von 100 Mbit/s auf 200
-Mbit/s beträgt derzeit weitere € 5,-/Monat.
+ersten 12 Monaten € 34,95/Monat - danach € 39,95/Monat. Höhere Geschwindigkeiten
+sind geringfügig teurer. Der Aufpreis von 50 Mbit/s auf 100 Mbit/s beträgt
+derzeit € 5,-/Monat. Der Aufpreis von 100 Mbit/s auf 200 Mbit/s beträgt derzeit
+weitere € 5,-/Monat.
 
 ### Kann ich auch einen alternativen Anbieter wählen?
 
@@ -208,7 +208,7 @@ unbedingt notwendig, dass der Interessent bereit ist, € 3000,- für einen
 Anschluss zu zahlen. Wir nehmen auch gerne Interessenten auf, die maximal einen
 geringeren Betrag zahlen möchten. Das würde uns dennoch bei der Planung
 unterstützen und ggf. eine bessere Verhandlungsposition gegenüber der Telekom
-ermöglichen.
+einräumen.
 
 Wenn also Interesse da ist, ist es das einfachste uns eine Email zu schreiben
 unter:
@@ -230,9 +230,9 @@ uns zu kommen.
 
 Sollte die Kosten den Schätzungen entsprechenden, werden wir in einer weiteren
 Planungsphase überlegen, ob es möglich ist die weiteren Interessenten ebenfalls
-zu dem gewünschten Betrag an das Netz anzuschließen. Ziel sollte sein möglichst
-viele Haushalte anzuschließen. Eine nachträgliche Erschließung eines Hauses
-dürfte nur mit einem erheblichen finanziellen Aufwand möglich sein.
+zu dem maximal gewünschten Betrag an das Netz anzuschließen. Ziel sollte es sein
+möglichst viele Haushalte anzuschließen. Eine nachträgliche Erschließung eines
+Hauses dürfte nur mit einem erheblichen finanziellen Aufwand möglich sein.
 
 Auch dürfen wir die derzeit günstige Situtation nicht außer Acht lassen, dass
 die meisten Straßen noch nicht geteert oder gepflastert sind. Ein wenig Eile
