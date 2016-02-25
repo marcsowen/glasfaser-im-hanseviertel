@@ -51,6 +51,14 @@ man hier auch die nächsten Jahrzehnte seines Lebens verbringen. Wie die Zukunft
 aussieht weiß niemand, aber eins ist sicher: Die benötigten Datenraten werden
 weiter enorm steigen.
 
+Weiterhin kann man sich sicher sein, dass der Wert einer Immobilie durch den
+Anschluss an ein Glasfasernetz steigt. Sollte man mit dem Gedanken spielen die
+Immobilie später einmal zu verkaufen oder zu vermieten, wird man mit Hinweis auf
+einen vorhandenen Glasfaseranschluss im Exposé mit großer Sicherheit einen
+besseren Preis erzielen als ohne. Möglicherweise ist dieser Gewinn höher, als
+die Investitionskosten, die man heute für den Glasfaseranschluss aufbringen
+müsste.
+
 ### Ok, verstanden. Glasfaser ist toll. Aber werden die Telekommunikationsanbieter nicht automatisch für einen Anschluss sorgen?
 
 Jein. Zumindest nicht so bald. Aber schön der Reihe nach.
@@ -125,9 +133,9 @@ erste Fragen beantworten konnte.
 Die Telekom übernimmt die Planung und stellt alle technischen Vorraussetzung,
 damit der Glasfaseranschluss in der gleichen hohen Qualität wie auch anderswo
 in Deutschland in den Kellern der Häuser (bzw. im Hauswirtschaftsraum)
-installiert wird. Dabei orientiert sich die Telekom an den Maßnahmen, die sie
-auch schon in den Glasfaser-Pilotstädten durchgeführt hat. Über diese kann man
-sich auf der Telekom-Webseite informieren:
+installiert werden kann. Dabei orientiert sich die Telekom an den Maßnahmen,
+die sie auch schon in den Glasfaser-Pilotstädten durchgeführt hat. Über diese
+kann man sich auf der Telekom-Webseite informieren:
 
 [Willkommen im Netz der Zukunft](http://www.telekom.de/privatkunden/zuhause/glasfaser){:target="_blank"}
 
@@ -135,9 +143,9 @@ sich auf der Telekom-Webseite informieren:
 
 Die Telekom - und sicherlich auch andere Anbieter - möchten sehr wohl ausbauen.
 Das Problem ist nur, dass es für sie momentan wirtschaftlich noch keinen Sinn
-macht, so lange die Kupfertechnologie noch nicht komplett ausgereizt ist. Wenn
+ergibt, so lange die Kupfertechnologie noch nicht komplett ausgereizt ist. Wenn
 die Wirtschaftlichkeit aber dadurch erreicht wird, dass man sich an den realen
-Kosten des Aufbaus beteiligt, ist die Telekom bereit, eine Projektierung
+Kosten des Aufbaus beteiligt, ist die Telekom bereit eine Projektierung
 anzustoßen.
 
 ### Warum sollte der Ausbau gerade jetzt stattfinden?
@@ -214,10 +222,10 @@ eine Kontaktaufnahme.
 ## Wie sieht die weiter Planung aus?
 
 Sobald wir die ersten 3-5 Interessenten mit einer festen Zusage über einen
-Betrag von mind. € 3000,- haben, würde ich meinen Kontakt bei der Telekom
+Betrag von mind. € 3000,- haben, würden wir unseren Kontakt bei der Telekom
 bitten, eine erste Voruntersuchung einzuleiten. Die Telekom wird dann die
 Umgebung erkunden und klären, wie die Kabelführung auszusehen hat, welche
-Komponenten installiert werden müssten und vor allem, welche Gesamtkosten auf
+Komponenten installiert werden müssten und vor allem welche Gesamtkosten auf
 uns zu kommen.
 
 Sollte die Kosten den Schätzungen entsprechenden, werden wir in einer weiteren
@@ -230,7 +238,7 @@ Auch dürfen wir die derzeit günstige Situtation nicht außer Acht lassen, dass
 die meisten Straßen noch nicht geteert oder gepflastert sind. Ein wenig Eile
 ist somit geboten.
 
-Weiterhin würden wir uns auch nach Sponsoren umsehen. Evtl. hat die Stadt bzw.
-die Sparkasse Lüneburg Interesse an dem Projekt als weitere Möglichkeit der
-Vermarktung des Geländes. Selbst in Hamburg sind Neubaugebiete mit Glasfaser-
-erschließung eine Rarität.
+Weiterhin würden wir uns auch nach Sponsoren umsehen. Möglicherweise hat die
+Stadt bzw. die Sparkasse Lüneburg Interesse an dem Projekt als weitere
+Möglichkeit der Vermarktung des Geländes. Selbst in Hamburg sind Neubaugebiete
+mit Glasfasererschließung eine Rarität.
