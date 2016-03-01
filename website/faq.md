@@ -22,7 +22,7 @@ mehreren 100 Mbit/s angeboten. Technisch sind mit der aktuellen Technik auch
 Datenraten von mehreren Gbit/s möglich. Ein weiterer Vorteil: Diese
 Geschwindigkeiten gelten nicht nur für Daten, die man aus dem Internet lädt,
 sondern auch für Daten (Fotos für Fotobücher, Podcasts, Youtube-Videos, Backups,
-etc.), die man ins Internet hochlädt.
+etc.), die man ins Internet hoch lädt.
 
 Vorteile auf einem Blick:
 
@@ -167,12 +167,15 @@ einen einzelnen Haushalt nicht lohnt. Man müsste in dem Fall mit Kosten zwische
 Grundstück gleich mit anzuschließen sehr gering. Dadurch können die Kosten sehr
 einfach unter den Nachbarn aufgeteilt werden.
 
-In der aktuell laufenden ersten Phase ist das Ziel, 3-5 Interessenten zu finden,
-die bereit wären, eine Summe von ca. € 3000,- zu investieren. Damit könnte das
-Projekt auf jeden Fall realisiert werden. Wir sind davon überzeugt, dass bei
-weiteren Interessenten der Preis auch in die Nähe von € 1000,- für die
-Erschließung eines Hauses sinken könnte, so lange sich alle Häuser in
-unmittelbarer Nachbarschaft befinden.
+In der aktuell laufenden zweiten Phase wurde für die ersten vier Anwohner eine
+Anfrage bei der Telekom in Auftrag gegeben. Diese ersten Parteien sind bereit,
+einen Betrag von bis zu € 3000,- zu investieren. Mit diesen Investitionen kann
+das Projekt aller Voraussicht nach realisiert werden, auch wenn sich keine
+weiteren Interessenten finden sollten. 
+
+Wir sind allerdings davon überzeugt, dass bei weiteren Interessenten der Preis
+auch in die Nähe von € 1000,- für die Erschließung eines Hauses sinken könnte,
+so lange sich alle Häuser in unmittelbarer Nachbarschaft befinden.
 
 Interessenten, die weiter weg im Hanseviertel wohnen, würden wir natürlich
 trotzdem mit in die Planung einbeziehen. Evtl. müsste dann ein weiteres Projekt
@@ -221,12 +224,10 @@ eine Kontaktaufnahme.
 
 ## Wie sieht die weiter Planung aus?
 
-Sobald wir die ersten 3-5 Interessenten mit einer festen Zusage über einen
-Betrag von mind. € 3000,- haben, würden wir unseren Kontakt bei der Telekom
-bitten, eine erste Voruntersuchung einzuleiten. Die Telekom wird dann die
-Umgebung erkunden und klären, wie die Kabelführung auszusehen hat, welche
-Komponenten installiert werden müssten und vor allem welche Gesamtkosten auf
-uns zu kommen.
+Aktuell läuft für die ersten vier Parteien eine Anfrage bei der Telekom. Damit
+errechnet die Telekom den Aufwand und somit die Kosten für einen FTTH-Ausbau.
+Die Telekom wird die Umgebung erkunden und klären, wie die Kabelführung
+auszusehen hat und welche Komponenten installiert werden müssten.
 
 Sollte die Kosten den Schätzungen entsprechenden, werden wir in einer weiteren
 Planungsphase überlegen, ob es möglich ist die weiteren Interessenten ebenfalls
