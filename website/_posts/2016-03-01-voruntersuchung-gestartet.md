@@ -12,9 +12,9 @@ errechnet, wie hoch die realen Kosten eines Ausbaus sein werden. Die Reaktion
 des Mitarbeiters stimmt uns aber positiv: "Ja, das würde schonmal locker
 ausreichen."
 
-**Update:** Aktuell gibt es anscheinend einen regelrechten Ansturm auf das FTTH-
-Team der Telekom. Die Bearbeitung der Anfrage wird daher laut Telekom ca. 4-6
-Wochen in Anspruch nehmen.
+**Update:** Aktuell gibt es anscheinend einen regelrechten Ansturm auf das
+FTTH-Team der Telekom. Die Bearbeitung der Anfrage wird daher laut Telekom ca.
+4-6 Wochen in Anspruch nehmen.
 
 Das soll es aber natürlich noch nicht gewesen sein. Wir sind sicher, dass sich
 die Kosten für den Ausbau noch weiter senken lassen, sollten sich weitere
