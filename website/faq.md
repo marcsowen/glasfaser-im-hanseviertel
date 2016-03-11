@@ -7,9 +7,9 @@ permalink: /faq/
 ### Was ist *Glasfaser im Hanseviertel*?
 
 *Glasfaser im Hanseviertel* ist eine lose Interessensgemeinschaft von Anwohnern
-des Hanseviertels in Lüneburg, die sich zum Ziel gesetzt hat, möglichst vielen
-Häusern im Hanseviertel den Zugang zum Internet per Glasfaser (FTTH) zu
-ermöglichen.
+des [Hanseviertels in Lüneburg](http://www.hanseviertel-lueneburg.de){:target="_blank"},
+die sich zum Ziel gesetzt hat, möglichst vielen Häusern im Hanseviertel den
+Zugang zum Internet per Glasfaser (FTTH) zu ermöglichen.
 
 ### Warum Glasfaser?
 
