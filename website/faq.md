@@ -73,8 +73,10 @@ Vorzügen des Internets (Onlineshopping, Musik- bzw. Videostreaming, Fotobücher
 bestellen) nicht teilnehmen.
 
 Damit Deutschland hier nicht ins Hintertreffen gelangt, hat die Bundesregierung
-beschlossen, bis 2018 allen Bürgern einen Internetzugang von mind. 50 Mbit/s zur
-Verfügung zu stellen. Um dies zu erreichen bieten sich zwei Alternativen an:
+in der [Digitalen Agenda 2014-2017](https://www.digitale-agenda.de/Content/DE/_Anlagen/2014/08/2014-08-20-digitale-agenda.pdf?__blob=publicationFile&v=6){:target="_blank"}
+beschlossen, bis 2018 möglichst allen Bürgern einen Internetzugang von mind. 50
+Mbit/s zur Verfügung zu stellen. Um dies zu erreichen bieten sich zwei
+Alternativen an:
 
 1. Der Landkreis baut ein eigenes Glasfasernetz auf, welches dann an einen oder
 mehrere Telekommunikationsanbieter vermietet wird, damit dieser auf diesen
