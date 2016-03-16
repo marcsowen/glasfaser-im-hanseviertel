@@ -152,7 +152,7 @@ anzustoßen.
 
 ### Warum sollte der Ausbau gerade jetzt stattfinden?
 
-Aktuell sind die meisten Straßen weder geteert und gepflastert. Tiefbauarbeiten
+Aktuell sind die meisten Straßen weder geteert noch gepflastert. Tiefbauarbeiten
 sollten derzeit besonders günstig sein. Auch ist der Vorgarten bei vielen
 Häusern noch nicht bepflanzt, so dass ein Graben vom Straßenrand bis zum Keller
 ohne größere Schäden realisierbar ist. Aber keine Sorge: Sollte der Vorgarten
