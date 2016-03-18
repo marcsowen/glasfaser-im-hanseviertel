@@ -24,12 +24,39 @@ Geschwindigkeiten gelten nicht nur für Daten, die man aus dem Internet lädt,
 sondern auch für Daten (Fotos für Fotobücher, Podcasts, Youtube-Videos, Backups,
 etc.), die man ins Internet hoch lädt.
 
+Der Consultan Dipl.-Ing. Jens Thaele schreibt dazu auf Xing:
+
+> "Schlussendlich ist Vectoring nicht zukunftstauglich. Die meisten Experten
+gehen von einer regelrechten Explosion der benötigten Bandbreiten aus. Das liegt
+nicht zuletzt am Wachstum der Videostreamingdienste. Schon heute stößt ein
+16-Mbit/s-Internetzugang bei einem UHD-Stream an seine Grenzen, 50 Mbit/s sind
+bereits jetzt vorteilhaft. Weitere Evolutionsstufen der Unterhaltungselektronik
+werden sehr bald das Vielfache an Leistungsfähigkeit abverlangen. Die rasante
+Entwicklung des Internets der Dinge, als nur ein Beispiel für weitere
+bandbreitenhungrige Anwendungen, verlangt zusätzlich nach sicheren und
+fehlerunanfälligen Übertragungsmedien. Als sinnhafte Zukunftstechnologie fällt
+Vectoring deshalb nicht nur aufgrund fehlender Bandbreitenreserven glatt durch.
+Die Zukunft verlangt nach einer geeigneten Gigabittechnologie, und zwar
+durchgängig bis zu den Endkunden.
+>
+> Die Glasfaser passt sich perfekt dem künftigen Bandbreitenhunger einer
+digitalisierten Welt an. Die optischen Fasern weisen geringe Dämpfungswerte auf,
+sodass lange Übertragungswege mit verhältnismäßig wenig Energieeinspeisung
+auskommen. Später erforderliche Bandbreitenerhöhungen bei bereits verlegten
+Fasern lassen sich bequem durch einen Austausch der Sender- und Empfängertechnik
+umsetzen, sodass in Zukunft größere bauliche Maßnahmen entfallen. Die extrem
+viel höhere Abhörsicherheit gegenüber elektrischen Kabelverbindungen rundet die
+Vorteilsliste von Glasfasertechnologie ab."
+>
+> Quelle: [XING.com: Warum Glasfaser der Vectoring-Technik haushoch überlegen ist](https://www.xing.com/news/klartext/warum-glasfaser-der-vectoring-technik-haushoch-uberlegen-ist-519){:target="_blank"}
+
 Vorteile auf einem Blick:
 
 * Hohe Downloadraten
 * Ebenso hohe Uploadraten
 * Geringe Latenz (<5 ms)
 * Sehr geringe Störanfälligkeit
+* Hohe Abhörsicherheit
 * Maximale Zukunftssicherheit
 
 ### Was bedeutet FTTH?
