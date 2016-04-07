@@ -135,7 +135,7 @@ Nein, leider nicht. Gerade im Neubaugebiet Hanseviertel hat sich gezeigt, dass
 die Telekommunikationsanbieter kein Interesse an einem eigenfinanzierten
 Glasfaserausbau haben. Es wird zwar an vielen Stellen beteuert, dass
 Neubaugebiete heutzutage immer nur per Glasfaser erschlossen werden, aber die
-Rechnungen von ca. € 400,- (Telekom) bzw. ca. € 700,- (Vodafone Kabel) für den
+Rechnungen von ca. € 400,- (Telekom) bzw. ca. € 600,- (Vodafone Kabel) für den
 Zugang zum Kupferkabelnetz sind vielen sicherlich noch gut im Gedächtnis. Die
 Wahrscheinlichkeit, dass die Anbieter demnächst alles wieder heraus reißen und
 stattdessen Glasfaser legen, ist demnach äußerst gering.
@@ -196,7 +196,7 @@ einen einzelnen Haushalt nicht lohnt. Man müsste in dem Fall mit Kosten zwische
 Grundstück gleich mit anzuschließen sehr gering. Dadurch können die Kosten sehr
 einfach unter den Nachbarn aufgeteilt werden.
 
-In der aktuell laufenden zweiten Phase wurde für die ersten vier Anwohner eine
+In der aktuell laufenden zweiten Phase wurde für die ersten sechs Anwohner eine
 Anfrage bei der Telekom in Auftrag gegeben. Diese ersten Parteien sind bereit,
 einen Betrag von bis zu € 3000,- zu investieren. Mit diesen Investitionen kann
 das Projekt aller Voraussicht nach realisiert werden, auch wenn sich keine
@@ -253,7 +253,7 @@ eine Kontaktaufnahme.
 
 ## Wie sieht die weiter Planung aus?
 
-Aktuell läuft für die ersten vier Parteien eine Anfrage bei der Telekom. Damit
+Aktuell läuft für die ersten sechs Parteien eine Anfrage bei der Telekom. Damit
 errechnet die Telekom den Aufwand und somit die Kosten für einen FTTH-Ausbau.
 Die Telekom wird die Umgebung erkunden und klären, wie die Kabelführung
 auszusehen hat und welche Komponenten installiert werden müssten.
