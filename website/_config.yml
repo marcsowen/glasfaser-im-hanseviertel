@@ -16,3 +16,7 @@ url: "https://www.glasfaser-im-hanseviertel.de" # the base hostname & protocol f
 
 # Build settings
 markdown: kramdown
+
+# Enable pagination
+gems: [jekyll-paginate]
+paginate: 5

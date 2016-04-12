@@ -9,9 +9,9 @@ layout: default
   <h1 class="page-heading">Neuigkeiten</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }}</span>
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -19,6 +19,19 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+
+  <!-- Pagination links -->
+  <p>
+  <div class="pagination">
+    <span class="page_number ">Seite: {{ paginator.page }} von {{ paginator.total_pages }}</span>
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">&laquo;</a>
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">&raquo;</a>
+    {% endif %}
+  </div>
+  </p>
 
   <p class="rss-subscribe">Abonnieren <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
