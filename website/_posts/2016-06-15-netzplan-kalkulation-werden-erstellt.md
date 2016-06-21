@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Es geht los: Netzplan und Kalkulation wird erstellt"
+title:  "Es geht los: Netzplan und Kalkulation werden erstellt"
 date:   2016-06-15 10:20:00 +0200
 ---
 Gute Nachrichten: Am Montag wurden wir von einem Mitarbeiter der Deutschen
